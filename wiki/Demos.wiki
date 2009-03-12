@@ -1,22 +1,20 @@
 = Apollo's Skins Demo =
 
-supported by Apollo
+http://apollo_skin1.blogbus.com<br/>
+http://apollo_skin2.blogbus.com<br/>
+http://apollo_skin3.blogbus.com<br/>
+http://apollo_skin4.blogbus.com<br/>
+http://apollo_skin5.blogbus.com<br/>
+http://apollo-skin6.blogbus.com<br/>
+http://apollo-skin7.blogbus.com<br/>
+http://apollo-skin8.blogbus.com<br/>
+http://apollo-skin9.blogbus.com<br/>
+http://apollo-skin10.blogbus.com<br/>
+http://apollo-skin11a.blogbus.com<br/>
+http://apollo-skin11b.blogbus.com<br/>
+http://apollo-skin11c.blogbus.com<br/>
+http://apollo-skin12.blogbus.com<br/>
+http://apollo-skin13.blogbus.com<br/>
+http://apollo-skin14.blogbus.com<br/>
 
-= Details =
-
-http://apollo_skin1.blogbus.com
-http://apollo_skin2.blogbus.com
-http://apollo_skin3.blogbus.com
-http://apollo_skin4.blogbus.com
-http://apollo_skin5.blogbus.com
-http://apollo-skin6.blogbus.com
-http://apollo-skin7.blogbus.com
-http://apollo-skin8.blogbus.com
-http://apollo-skin9.blogbus.com
-http://apollo-skin10.blogbus.com
-http://apollo-skin11a.blogbus.com
-http://apollo-skin11b.blogbus.com
-http://apollo-skin11c.blogbus.com
-http://apollo-skin12.blogbus.com
-http://apollo-skin13.blogbus.com
-http://apollo-skin14.blogbus.com
+<p>powered by Apollo</p>
