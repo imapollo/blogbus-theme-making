@@ -1,20 +1,20 @@
 = Apollo's Skins Demo =
 
-http://apollo_skin1.blogbus.com<br/>
-http://apollo_skin2.blogbus.com<br/>
-http://apollo_skin3.blogbus.com<br/>
-http://apollo_skin4.blogbus.com<br/>
-http://apollo_skin5.blogbus.com<br/>
-http://apollo-skin6.blogbus.com<br/>
-http://apollo-skin7.blogbus.com<br/>
-http://apollo-skin8.blogbus.com<br/>
-http://apollo-skin9.blogbus.com<br/>
-http://apollo-skin10.blogbus.com<br/>
-http://apollo-skin11a.blogbus.com<br/>
-http://apollo-skin11b.blogbus.com<br/>
-http://apollo-skin11c.blogbus.com<br/>
-http://apollo-skin12.blogbus.com<br/>
-http://apollo-skin13.blogbus.com<br/>
-http://apollo-skin14.blogbus.com<br/>
+Apollo's Skin 01  <a href="http://apollo_skin1.blogbus.com">Demo</a><br/>
+Apollo's Skin 02  <a href="http://apollo_skin2.blogbus.com">Demo</a><br/>
+Apollo's Skin 03  <a href="http://apollo_skin3.blogbus.com">Demo</a><br/>
+Apollo's Skin 04  <a href="http://apollo_skin4.blogbus.com">Demo</a><br/>
+Apollo's Skin 05  <a href="http://apollo_skin5.blogbus.com">Demo</a><br/>
+Apollo's Skin 06  <a href="http://apollo-skin6.blogbus.com">Demo</a><br/>
+Apollo's Skin 07  <a href="http://apollo-skin7.blogbus.com">Demo</a><br/>
+Apollo's Skin 08  <a href="http://apollo-skin8.blogbus.com">Demo</a><br/>
+Apollo's Skin 09  <a href="http://apollo-skin9.blogbus.com">Demo</a><br/>
+Apollo's Skin 10  <a href="http://apollo-skin10.blogbus.com">Demo</a><br/>
+Apollo's Skin 11a <a href="http://apollo-skin11a.blogbus.com">Demo</a><br/>
+Apollo's Skin 11b <a href="http://apollo-skin11b.blogbus.com">Demo</a><br/>
+Apollo's Skin 11c <a href="http://apollo-skin11c.blogbus.com">Demo</a><br/>
+Apollo's Skin 12  <a href="http://apollo-skin12.blogbus.com">Demo</a><br/>
+Apollo's Skin 13  <a href="http://apollo-skin13.blogbus.com">Demo</a><br/>
+Apollo's Skin 14  <a href="http://apollo-skin14.blogbus.com">Demo</a><br/>
 
 <p>powered by Apollo</p>
