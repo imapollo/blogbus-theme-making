@@ -1,18 +1,18 @@
-Apollo's Skin 01 <a href="http://apollo_skin1.blogbus.com">Demo</a><br/>
-Apollo's Skin 02 <a href="http://apollo_skin2.blogbus.com">Demo</a><br/>
-Apollo's Skin 03 <a href="http://apollo_skin3.blogbus.com">Demo</a><br/>
-Apollo's Skin 04 <a href="http://apollo_skin4.blogbus.com">Demo</a><br/>
-Apollo's Skin 05 <a href="http://apollo_skin5.blogbus.com">Demo</a><br/>
-Apollo's Skin 06 <a href="http://apollo-skin6.blogbus.com">Demo</a><br/>
-Apollo's Skin 07 <a href="http://apollo-skin7.blogbus.com">Demo</a><br/>
-Apollo's Skin 08 <a href="http://apollo-skin8.blogbus.com">Demo</a><br/>
-Apollo's Skin 09 <a href="http://apollo-skin9.blogbus.com">Demo</a><br/>
-Apollo's Skin 10 <a href="http://apollo-skin10.blogbus.com">Demo</a><br/>
-Apollo's Skin 11a <a href="http://apollo-skin11a.blogbus.com">Demo</a><br/>
-Apollo's Skin 11b <a href="http://apollo-skin11b.blogbus.com">Demo</a><br/>
-Apollo's Skin 11c <a href="http://apollo-skin11c.blogbus.com">Demo</a><br/>
-Apollo's Skin 12 <a href="http://apollo-skin12.blogbus.com">Demo</a><br/>
-Apollo's Skin 13 <a href="http://apollo-skin13.blogbus.com">Demo</a><br/>
-Apollo's Skin 14 <a href="http://apollo-skin14.blogbus.com">Demo</a><br/>
+Apollo's Skin 01 http://apollo_skin1.blogbus.com
+Apollo's Skin 02 http://apollo_skin2.blogbus.com
+Apollo's Skin 03 http://apollo_skin3.blogbus.com
+Apollo's Skin 04 http://apollo_skin4.blogbus.com
+Apollo's Skin 05 http://apollo_skin5.blogbus.com
+Apollo's Skin 06 http://apollo-skin6.blogbus.com
+Apollo's Skin 07 http://apollo-skin7.blogbus.com
+Apollo's Skin 08 http://apollo-skin8.blogbus.com
+Apollo's Skin 09 http://apollo-skin9.blogbus.com
+Apollo's Skin 10 http://apollo-skin10.blogbus.com
+Apollo's Skin 11a http://apollo-skin11a.blogbus.com
+Apollo's Skin 11b http://apollo-skin11b.blogbus.com
+Apollo's Skin 11c http://apollo-skin11c.blogbus.com
+Apollo's Skin 12 http://apollo-skin12.blogbus.com
+Apollo's Skin 13 http://apollo-skin13.blogbus.com
+Apollo's Skin 14 http://apollo-skin14.blogbus.com
 
 <p>powered by Apollo</p>
