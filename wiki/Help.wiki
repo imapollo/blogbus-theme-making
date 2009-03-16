@@ -1,13 +1,15 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+J&A共享模版使用说明：
+1. 请注意新旧模板系统的区别，如果一个不行，请换另一个试试。
+2. 进入相应模板系统后，请按以下步骤添加：
+1) 新建自定义模板
+2) 点击修改
+3) 将压缩包里的代码放入相应代码段
+4) 保存，使用即可
+3. 关于单栏模板上的索引，可以在Index和Log（旧模板系统），或者Index和Detail（新模板系统）里修改所需的地址和条目。
+4. 关于新系统下的三栏模板，复制好相应代码段后，需在"首页设置"和"内页设置"调整副栏(1)(2)里的模块方可使用。
+5. 其他问题
+1)请到http://bangzhuzhongxin.blogbus.com/查看说明
+2)请到http://bbs.blogbus.com/上提出问题
+3)请直接问询BlogBus技术支持support[at]blogbus.com，谢谢。
