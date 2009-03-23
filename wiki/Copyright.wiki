@@ -1,34 +1,12 @@
-#summary One-sentence summary of this page.
+#summary copyright
 
-一 你们拥有以下权利：
-1.以你喜欢的方式随意修改代码。
-2.去掉页面底部 skinned by class JC或skinned by Apollo字样。
-3.对我们提出合理的批评和指教。
+Copyright (c) 2009, Apollo
+All rights reserved.
 
-二 在留言时请确保：
-1.共享模版名称，邮箱地址，待更换的blog地址在同一条留言中。
-2.不重复留言，所留邮箱正确。
-3.模版名称一次列举完整，即使索取不同期的模版，也把留言集中成一条。
-4.不在其它日志下留和共享模版相关的言。
-5.如果新系统下行不通，请把代码放到旧系统里保存使用。
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
-三 以下情况我们将不再回复留言或邮件：
-1.在共享模版的预览页面留言的。
-2.留言中缺少模版名称，邮箱地址，待更换的blog地址，三者之一的。
-3.blog设置了访问密码，blog上已存在日志数量少于15篇的。
-4.在一次查看后台过程中，发现你索取模版的留言数超过1条以上的。
-5.在其它日志下留言索取模版的。
-6.留言问怎么使用共享模版的。
-7.留言索取J&A正在使用的模版的。
-8.留言要求为个人定制模版的。
-9.留言要求把共享模版修改成个人喜欢的样式再发送的。
-10.留言涉及《J&A共享模版使用说明》中已解释说明过的问题的。
+    * Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+    * Neither the name of the <ORGANIZATION> nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
 
-四 同时：
-1.本条例配合《J&A共享模版使用说明》同时发布。
-2.J&A一直耐心答复所有留言和邮件，但随着共享人群数量增多，有些事让我们逐渐力不从心了。
-3.J&A共享模版是没有任何收益而自愿发起的行动，如果喜欢和希望继续使用我们的东西，请配合我们工作的进行。
-4.在任何情况下，保持礼貌和诚意是你起码该做到的事情。
-5.J&A对部分咨询类的留言或邮件保留不给回复的权利。
-6.客气话说完之后，如果你还想用我们的东西，不管上述条理让你心里多不满意，这些事还得我们说了算。
-7.本条例随需而动可随时进行修改，解释全归J&A所有。
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
