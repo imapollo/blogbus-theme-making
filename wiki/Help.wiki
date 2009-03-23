@@ -1,4 +1,4 @@
-1. Please be aware of the different between BlogBus Old Themes System and the new one. If you cannot implement the downloaded themes in one system, try another one.<br/>
+1. Please be aware of the different between blogbus Old Themes System and the new one. If you cannot implement the downloaded themes in one system, try another one.<br/>
 2. Unzip the themes you want, and paste the source code to these<br/>
 corresponding modules. This http://bangzhuzhongxin.blogbus.com/logs/4519414 html will help you to do this.<br/>
 3. Right click, "Open with...", Notepad to open the html or css file in the package.<br/>
