@@ -16,7 +16,7 @@ email: jessie_subly(at)hotmail.com<br/>
 blog: jessie0426.blogbus.com
 </p>
 <p>
-Apollo</br>
+Apollo<br/>
 email: ze.apollo(at)gmail.com<br/>
 blog: imapollo.blogbus.com
 </p>
