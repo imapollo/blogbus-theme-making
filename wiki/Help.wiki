@@ -1,25 +1,31 @@
 #summary how to use the shared themes
+#labels Phase-Support
 
 <div style="width: 600px;">
 <p>
-1. Please distinguish between blogbus old themes system and the new one.<br/>
-If you cannot implement the downloaded themes in one system, try another one.
+1. Please distinguish between blogbus old themes system and the new one. If you<br/>
+cannot implement the downloaded themes in one system, try another one.
 </p>
 <p>
-2. Download and unzip the themes you want, and paste the source code to these corresponding modules.<br/>
-This http://bangzhuzhongxin.blogbus.com/logs/4519414 html will help you to do this.
+2. Download and unzip the themes you want, and paste the source code to these<br/>
+corresponding modules. This http://bangzhuzhongxin.blogbus.com/logs/4519414 html<br/>
+will help you to do this.
 </p>
 <p>
 3. Right click, "Open with...", Notepad to open the html or css file in the packages.
 </p>
 <p>
-4. You can modify the Index and Log modules (in old system), or Index and Detail modules (in new system) to specify yourself's link in the navigation.
+4. You can modify the Index and Log modules (in old system), or Index and Detail<br/>
+modules (in new system) to specify yourself's link in the navigation.
 </p>
 <p>
-5. If you are implementing a 3 columns theme in the new system, you can do the 2nd step first. And adjust the sidebar(1) and sidebar(2) to what you want.
+5. If you are implementing a 3 columns theme in the new system, you can do the 2nd<br/>
+step first. And adjust the sidebar(1) and sidebar(2) to what you want.
 </p>
 <p>
-6. If you have any further questions, you can go to the http://bangzhuzhongxin.blogbus.com the check the reference. Go to http://bbs.blogbus.com to ask some questions, or email support#blogbus.com directly.
+6. If you have any further questions, you can go to the<br/>
+http://bangzhuzhongxin.blogbus.com the check the reference. Go to<br/>
+http://bbs.blogbus.com to ask some questions, or email support#blogbus.com directly.
 </p>
 <p>Thanks!</p>
 </div>
