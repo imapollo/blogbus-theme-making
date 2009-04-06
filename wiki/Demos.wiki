@@ -1,3 +1,28 @@
+#labels Phase-Support
+= JC's =
+
+class JC-skin 01 http://jessie-skin1.blogbus.com<br/>
+class JC-skin 02 http://jessie-skin2.blogbus.com<br/>
+class JC-skin 03 http://jessie-skin3.blogbus.com<br/>
+class JC-skin 04 http://jessie-skin4.blogbus.com<br/>
+class JC-skin 05 http://jessie-skin5.blogbus.com<br/>
+class JC-skin 06 http://jessie-skin6.blogbus.com<br/>
+class JC-skin 07 http://jessie-skin7.blogbus.com<br/>
+class JC-skin 08 http://jessie-skin8.blogbus.com<br/>
+class JC-skin 09 http://jessie-skin9.blogbus.com<br/>
+class JC-skin 10 http://jessie-skin10.blogbus.com<br/>
+class JC-skin 11 http://jessie-skin11.blogbus.com<br/>
+class JC-skin 12 http://jessie-skin12.blogbus.com<br/>
+class JC-skin 13 http://jessie-skin13.blogbus.com<br/>
+class JC-skin 14 http://jessie-skin14.blogbus.com<br/>
+class JC-skin 15 http://jessie-skin15.blogbus.com<br/>
+class JC-skin 16 http://jessie-skin16.blogbus.com<br/>
+class JC-skin 17 http://jessie-skin17.blogbus.com<br/>
+class JC-skin 18 http://jessie-skin18.blogbus.com<br/>
+class JC-skin 19 http://jessie-skin19.blogbus.com<br/>
+
+= Apollo's =
+
 Apollo's Skin 01 http://apollo_skin1.blogbus.com<br/>
 Apollo's Skin 02 http://apollo_skin2.blogbus.com<br/>
 Apollo's Skin 03 http://apollo_skin3.blogbus.com<br/>
@@ -15,4 +40,4 @@ Apollo's Skin 12 http://apollo-skin12.blogbus.com<br/>
 Apollo's Skin 13 http://apollo-skin13.blogbus.com<br/>
 Apollo's Skin 14 http://apollo-skin14.blogbus.com<br/>
 
-<p>powered by Apollo</p>
+<p>powered by J&A</p>
