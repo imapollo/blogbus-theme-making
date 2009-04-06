@@ -23,9 +23,10 @@ modules (in new system) to specify yourself's link in the navigation.
 step first. And adjust the sidebar(1) and sidebar(2) to what you want.
 </p>
 <p>
-6. If you have any further questions, you can go to the<br/>
-http://bangzhuzhongxin.blogbus.com the check the reference. Go to<br/>
-http://bbs.blogbus.com to ask some questions, or email support#blogbus.com directly.
+6. If you have any further questions,<br/>
+you can go to the http://bangzhuzhongxin.blogbus.com to check the reference.<br/>
+Go to http://bbs.blogbus.com to ask some questions.<br/>
+Or email support(at)blogbus.com directly.
 </p>
 <p>Thanks!</p>
 </div>
