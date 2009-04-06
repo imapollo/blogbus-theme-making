@@ -1,6 +1,6 @@
 #summary how to use the shared themes
 
-<div style="width: 600px;"
+<div style="width: 600px;">
 <p>
 1. Please distinguish between blogbus old themes system and the new one.<br/>
 If you cannot implement the downloaded themes in one system, try another one.
@@ -22,3 +22,4 @@ This http://bangzhuzhongxin.blogbus.com/logs/4519414 html will help you to do th
 6. If you have any further questions, you can go to the http://bangzhuzhongxin.blogbus.com the check the reference. Go to http://bbs.blogbus.com to ask some questions, or email support#blogbus.com directly.
 </p>
 <p>Thanks!</p>
+</div>
