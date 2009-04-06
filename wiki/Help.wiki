@@ -8,7 +8,7 @@ cannot implement the downloaded themes in one system, try another one.
 </p>
 <p>
 2. Download and unzip the themes you want, and paste the source code to these<br/>
-corresponding modules. This http://bangzhuzhongxin.blogbus.com/logs/4519414 html<br/>
+corresponding modules. This http://bangzhuzhongxin.blogbus.com/logs/4519414.html<br/>
 will help you to do this.
 </p>
 <p>
