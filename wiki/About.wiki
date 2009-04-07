@@ -10,10 +10,9 @@
 
 = Contact Us =
   * JC
-email: jessie_subly(at)hotmail.com<br/>
-blog: jessie0426.blogbus.com<br/>
+  * email: jessie_subly(at)hotmail.com
+  * blog: jessie0426.blogbus.com
 <br/>
   * Apollo
-email: ze.apollo(at)gmail.com<br/>
-blog: imapollo.blogbus.com<br/>
-<br/>
+  * email: ze.apollo(at)gmail.com
+  * blog: imapollo.blogbus.com
