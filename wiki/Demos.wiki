@@ -29,7 +29,7 @@
   * Apollo's Skin 02 [http://apollo_skin2.blogbus.com demo]
   * Apollo's Skin 03 [http://apollo_skin3.blogbus.com demo]
   * Apollo's Skin 04 [http://apollo_skin4.blogbus.com demo]
-  * Apollo's Skin 05 [http://apollo_skin5.blogbus.com demo]
+  * Apollo's Skin 05 [http://apollo-skin5.blogbus.com demo]
   * Apollo's Skin 06 [http://apollo-skin6.blogbus.com demo]
   * Apollo's Skin 07 [http://apollo-skin7.blogbus.com demo]
   * Apollo's Skin 08 [http://apollo-skin8.blogbus.com demo]
