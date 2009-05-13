@@ -35,9 +35,10 @@
   * Apollo's Skin 08 [http://apollo-skin8.blogbus.com demo]
   * Apollo's Skin 09 [http://apollo-skin9.blogbus.com demo]
   * Apollo's Skin 10 [http://apollo-skin10.blogbus.com demo]
-  * Apollo's Skin 11a [http://apollo-skin11a.blogbus.com demo]
-  * Apollo's Skin 11b [http://apollo-skin11b.blogbus.com demo]
-  * Apollo's Skin 11c [http://apollo-skin11c.blogbus.com demo]
+  * Apollo's Skin 11
+   * Apollo's Skin 11a [http://apollo-skin11a.blogbus.com demo]
+   * Apollo's Skin 11b [http://apollo-skin11b.blogbus.com demo]
+   * Apollo's Skin 11c [http://apollo-skin11c.blogbus.com demo]
   * Apollo's Skin 12 [http://apollo-skin12.blogbus.com demo]
   * Apollo's Skin 13 [http://apollo-skin13.blogbus.com demo]
   * Apollo's Skin 14 [http://apollo-skin14.blogbus.com demo]
