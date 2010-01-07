@@ -42,6 +42,6 @@
   * Apollo's Skin 13 [http://apollo-skin13.blogbus.com demo]
   * Apollo's Skin 14 [http://apollo-skin14.blogbus.com demo]
   * Apollo's Skin 15 [http://apollo-skin15.blogbus.com demo]
-  * Apollo's Skin 16 [http://apollo-skin16.blogbus.com demo]
+  * Apollo's Skin 16 [http://apollo-skin16.blogbus.com demo] [http://blogbus-theme-making.googlecode.com/files/Apollo-16.zip download]
 
 ===== powered by J&A =====
