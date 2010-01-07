@@ -44,4 +44,6 @@
   * Apollo's Skin 15 [http://apollo-skin15.blogbus.com demo]
   * Apollo's Skin 16 [http://apollo-skin16.blogbus.com demo]
 
+You can download the above themes [http://code.google.com/p/blogbus-theme-making/downloads/list here].
+
 ===== powered by J&A =====
