@@ -22,6 +22,7 @@
   * class JC-skin 17 [http://jessie-skin17.blogbus.com demo]
   * class JC-skin 18 [http://jessie-skin18.blogbus.com demo]
   * class JC-skin 19 [http://jessie-skin19.blogbus.com demo]
+  * class JC-skin 21 [http://jessie-skin21.blogbus.com demo]
 
 === Apollo's ===
 
